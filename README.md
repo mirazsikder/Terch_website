@@ -1,1 +1,1 @@
-# Terch_website_design_html_css
+# Tech_website_design_html_css
